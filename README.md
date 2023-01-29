@@ -1,4 +1,4 @@
-# Sophomres-Minesweeper-Bot
+# Sophomores-Minesweeper-Bot
 A Discord Minesweeper bot with some custom options customizability
 
 # Warning
